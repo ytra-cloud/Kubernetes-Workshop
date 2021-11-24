@@ -1,2 +1,6 @@
 .DS_Store
 .idea
+main
+go.mod
+go.sum
+memconsumer/memconsumer
